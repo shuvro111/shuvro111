@@ -1,5 +1,5 @@
 <h3 align="center"> Hi there 👋 </h3>
-<h3 align="center"><img align="center" src="https://github.com/shuvro111/shuvro111/blob/master/heroFinal.png" alt="Shuvro Sarkar"/>
+<h3 align="center"><img align="center" src="https://github.com/shuvro111/shuvro111/blob/main/heroFinal.png" alt="Shuvro Sarkar"/>
 </h3>
 <h3 align="center">📝 Who am I? 📝</h3>
 
@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-<h3 align="center"><a href="https://github.com/shuvro111/shuvro111/raw/master/Shuvro%20Sarkar_Resume.pdf"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" target="_blank" alt="Shuvro Sarkar"/></a><a href="https://shuvrosarkar.web.app/"><img align="center" src="https://img.shields.io/badge/visit%20my%20graphic%20portfolio-5B249A?&style=for-the-badge&color=brown" target="_blank" alt="Shuvro Sarkar"/></a></h3>
+<h3 align="center"><a href="https://github.com/shuvro111/shuvro111/raw/main/Shuvro%20Sarkar_Resume.pdf"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" target="_blank" alt="Shuvro Sarkar"/></a><a href="https://shuvrosarkar.web.app/"><img align="center" src="https://img.shields.io/badge/visit%20my%20graphic%20portfolio-5B249A?&style=for-the-badge&color=brown" target="_blank" alt="Shuvro Sarkar"/></a></h3>
 <br>
 
 ---
@@ -85,4 +85,4 @@ Studying in bachelor degree, in IUBAT (International University of Business Agri
 <a href="https://www.linkedin.com/in/shuvro-sarkar-7071b2197/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:akshuvrosarkar57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a><br /></p>
 
-<h3 align="center"><img align="center" src="https://github.com/shuvro111/shuvro111/blob/master/footerPng.png" alt="Shuvro Sarkar"/></h3>
+<h3 align="center"><img align="center" src="https://github.com/shuvro111/shuvro111/blob/main/footerPng.png" alt="Shuvro Sarkar"/></h3>
