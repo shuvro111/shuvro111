@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋 </h3>
 <h3 align="center"><img align="center" src="https://github.com/shuvro111/shuvro111/blob/master/heroFinal.png" alt="Shuvro Sarkar"/>
 </h3>
 <h3 align="center">📝 Who am I? 📝</h3>
